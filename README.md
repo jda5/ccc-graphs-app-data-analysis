@@ -1,4 +1,4 @@
-# CCC: Graphs RCT Analysis
+# CCC: Graphs App Data Analysis
 
 This repository contains the Jupyter Notebook used to analyse the **app data** collected as part a randomised controlled trial (RCT) in the CCC: Graphs project (publication pending). This Notebook was developed as part of a doctoral thesis submitted in partial fulfilment of the requirements for the award of Doctor of Philosophy of Loughborough University.
 
