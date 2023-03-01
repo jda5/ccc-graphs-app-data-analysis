@@ -1,6 +1,6 @@
 # CCC: Graphs App Data Analysis
 
-This repository contains the Jupyter Notebook used to analyse the **app data** collected as part a randomised controlled trial (RCT) in the CCC: Graphs project (publication pending). This Notebook was developed as part of a doctoral thesis submitted in partial fulfilment of the requirements for the award of Doctor of Philosophy of Loughborough University.
+This repository contains the Jupyter Notebook used to analyse the **app data** collected as part a randomised controlled trial (RCT) in the CCC: Graphs project (publication pending).
 
 In order to run this script, you will need to install the following. Most of these can be installed easily using `pip`, the package installer for Python:
 
